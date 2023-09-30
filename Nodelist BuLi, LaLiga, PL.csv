@@ -1,0 +1,453 @@
+id,name,type,league
+AB,Abelardo,1,3
+ABE,Achim Beierlorzer,1,1
+ABI,Athletic Bilbao,2,3
+ABR,André Breitenreiter,1,1
+AC,Antonio Conte,1,2
+ACE,Álvaro Cervera,1,3
+ACO,Ante Covic,1,1
+ACR,Andrew Crofts,1,2
+ACU,Alan Curtis,1,2
+ADA,Aaron Danks,1,2
+AFC,AFC Bournemouth,2,2
+AFCS,AFC Sunderland,2,2
+AFE,Albert Ferrer,1,3
+AG,Asier Garitano,1,3
+AH,Adi Hütter,1,6
+AHI,Andreas Hinkel,1,1
+AI,Andoni Iraola,1,6
+AIR,Alan Irvine,1,2
+AJO,Andries Jonker,1,1
+AKA,Aitor Karanka,1,6
+AL,Alessio Lisci,1,3
+ALA,Deportivo Alaves,2,3
+ALC,Albert Celades,1,3
+AM,Atlètico Madrid,2,3
+AML,Alex McLeish,1,2
+AMO,Antonio Mohamed,1,3
+ANO,Alexander Nouri,1,1
+AP,Ange Postecoglou,1,2
+APA,André Pawlak,1,1
+APAR,Alan Pardew,1,2
+AR,Armin Reutershahn,1,1
+ARE,Abel Resino,1,3
+ARFC,Arsenal FC,2,2
+AS,Alfred Schreuder,1,1
+ASAD,Adam Sadler,1,2
+ASC,Andre Schubert,1,1
+ATR,Alexis Trujillo,1,6
+AV,Aston Villa,2,2
+AVB,Andre Villas-Boas,1,6
+AVE,Armin Veh,1,1
+AW,Arsene Wenger,1,2
+AZO,Alexander Zorniger,1,1
+B04,Bayer 04 Leverkusen,2,1
+BBR,Bob Bradley,1,2
+BHA,Brigthon & Hove Albion,2,2
+BHO,Bernd Hollerbach,1,1
+BK,Brian Kidd,1,2
+BL,Bruno Lage,1,2
+BLAB,Bruno Labbadia,1,1
+BMG,Borussia Mönchengladbach,2,1
+BOFC,Crystal Palace,2,2
+BR,Brendan Rodgers,1,2
+BS,Bo Svennson,1,1
+BSC,Hertha BSC,2,1
+BSCH,Boris Schommers,1,1
+BSCHU,Bernd Schuster,1,3
+BVB,Borussia Dortmund,2,1
+BVM,Bert van Marwijk,1,1
+CA,Carlo Ancelotti,1,6
+CAO,CA Osasuna,2,3
+CAR,Cardiff City,2,2
+CC,Carlos Carvalhal,1,6
+CCF,Cádiz CF,2,3
+CCO,Cosmin Contra,1,3
+CDL,CD Leganes,2,3
+CFC,FC Chelsea,2,2
+CG,Christian Gross,1,1
+CH,Chris Hughton,1,2
+COG,Constantin Galca,1,3
+CPA,Cristobal Parralo,1,3
+CPR,Cesare Pradelli,1,6
+CPU,Claude Puel,1,6
+CR,Claudio Ranieri,1,2
+CRA,Chris Ramsey,1,2
+CS,Clarence Seedorf,1,6
+CSH,Craig Shakespeare,1,2
+CST,Christian Streich,1,1
+CSTE,Christian Stellini,1,2
+CT,Christian Titz,1,1
+CW,Chris Wilder,1,2
+CZ,Cuco Ziganda,1,3
+DA,Dick Advocaat,1,2
+DAST,Daniel Stendel,1,1
+DF,Duncan Ferguson,1,2
+DFA,Daniel Farke,1,6
+DG,David Gallego,1,3
+DGR,Dimitrios Grammozis,1,1
+DH,Dieter Hecking,1,1
+DK,David Kerslake,1,2
+DLC,Deportivo La Coruna,2,3
+DM,David Moyes,1,6
+DMA,Diego Martínez,1,6
+DMO,Darren Moore,1,2
+DP,Domingos Paciencia,1,3
+DS,Dean Smith,1,2
+DSC,Arminia Bielefeld,2,1
+DSCH,Dirk Schuster,1,1
+DSI,Diego Simeone,1,3
+DT,Domenico Tedesco,1,1
+DTO,Dino Toppmöller,1,1
+DU,David Unsworth,1,2
+DWA,David Wagner,1,6
+EBE,Eduardo Berizzo,1,3
+EBL,Eric Black,1,2
+EC,Eduardo Coudet,1,6
+ED,Eamonn Dolan,1,2
+EHO,Eddie Howe,1,2
+EMA,Enrique Martín,1,3
+ENMA,Enrico Maaßen,1,1
+ETE,Edin Terzic,1,1
+ETH,Erik ten Hag,1,2
+EU,Eusebio,1,3
+EV,Ernesto Valverde,1,3
+EVFC,Everton FC,2,2
+F95,Fortuna Düsseldorf,2,1
+FCA,FC Augsburg,2,1
+FCB,FC Bayern München,2,1
+FCBA,FC Barcelona,2,3
+FCBU,FC Burnley,2,2
+FCCO,FC Córdoba,2,3
+FCE,FC Elche,2,3
+FCI,FC Ingolstadt 04,2,1
+FCK,1. FC Köln,2,1
+FCKA,1. FC Kaiserslautern,2,1
+FCM,FC Malaga,2,3
+FCMI,FC Middlesbrough,2,2
+FCN,1. FC Nürnberg,2,1
+FCR,FC Reading,2,2
+FCW,FC Watford,2,2
+FDB,Frank de Boer,1,2
+FE,Fran Escribá,1,3
+FF,Friedhelm Funkel,1,1
+FFC,Fulham FC,2,2
+FGO,Fabri Gonzales,1,3
+FGU,Francesco Guidolin,1,2
+FKO,Florian Kohfeldt,1,1
+FKR,Frank Kramer,1,1
+FL,Frank Lampard,1,2
+FLJ,Freddie Ljungberg,1,2
+FMA,Felix Magath,1,6
+FR,Francisco Rodríguez,1,6
+FRU,Francisco Rufete,1,3
+FS,Frank Schaefer,1,1
+FSVM,1. FSV Mainz 05,2,1
+FV,Fernando Vázquez,1,3
+GCA,Gabriel Calderon,1,3
+GCF,Getafe CF,2,3
+GDB,Giovanni De Biasi,1,3
+GFC,Girona FC,2,3
+GG,Gennaro Gattuso,1,3
+GGA,Gaizka Garitano,1,3
+GH,Guus Hiddink,1,2
+GJ,Graeme Jones,1,2
+GM,Garry Monk,1,2
+GMA,Gregorio Manzano,1,3
+GMAR,Gerardo Martino,1,3
+GME,Gary Megson,1,2
+GN,Gary Neville,1,3
+GON,Gary O Neil,1,2
+GP,Graham Potter,1,2
+GPO,Gustavo Poyet,1,6
+GRFC,Granada FC,2,3
+GS,Gerardo Seoane,1,1
+GV,Gertjan Verbeek,1,1
+H96,Hannover 96,2,1
+HC,Hull City,2,2
+HCU,Hector Cuper,1,3
+HF,Hansi Flick,1,1
+HH,Heiko Herrlich,1,1
+HM,Hayden Mullins,1,2
+HRE,Harry Redknapp,1,2
+HS,Huub Stevens,1,1
+HST,Holger Stanislawski,1,1
+HSV,Hamburger SV,2,1
+HT,Huddersfield Town,2,2
+HW,Hannes Wolf,1,1
+IA,Imanol Alguacil,1,3
+IH,Ian Holloway,1,2
+ITE,Inaki Tejada,1,3
+JA,Jorge Almiron,1,6
+JAC,Javier Calleja,1,3
+JACA,Javier Cabello,1,3
+JACL,Javier Clemente,1,3
+JAG,Javier Aguirre,1,3
+JANQ,Juan Anquela,1,3
+JAP,Juan Antonio Pizzi,1,3
+JAR,Jagoba Arrasate,1,3
+JARO,Jose Antonio Romero,1,3
+JC,Joaquín Caparrós,1,3
+JCA,John Carver,1,2
+JCG,Juan Carlos Garrido,1,3
+JCU,Juan Carlos Unzue,1,3
+JE,Juan Esnáider,1,3
+JFM,Jose Francisco Molina,1,3
+JG,Javi Gracia,1,6
+JH,Jupp Heynckes,1,1
+JIM,Juan Ignacio Martinez,1,3
+JK,Jens Keller,1,1
+JKL,Jürgen Klinsmann,1,1
+JKLO,Jürgen Klopp,1,6
+JKR,Jürgen Kramny,1,1
+JL,Julen Lopetegui,1,6
+JLM,José Luis Mendilibar,1,6
+JLO,Jose Luis Oltra,1,3
+JLU,Jos Luhukay,1,1
+JM,Jose Mourinho,1,6
+JMA,Jesse Marsch,1,6
+JME,Juan Merino,1,3
+JML,Jan Moritz Lichte,1,1
+JMU,Juan Muñiz,1,3
+JN,Julian Nagelsmann,1,1
+JOG,José González,1,3
+JPE,Javier Pereira,1,3
+JR,Juande Ramos,1,3
+JRO,Jordi Roura,1,3
+JRS,José Ramón Sandoval,1,3
+JS,Jorge Sampaoli,1,6
+JSI,Jan Siewert,1,6
+JV,Julio Velázquez,1,6
+JZ,Josef Zinnbauer,1,1
+KB,Kevin Ball,1,2
+KBA,Krasimir Balakov,1,1
+KD,Keith Downing,1,2
+KDA,Kelvin Davis,1,2
+KH,Kasper Hjulmand,1,1
+KM,Keith Millen,1,2
+LAL,Lucas Alcaraz,1,3
+LBL,Luis Blanco,1,3
+LC,Luis Cembranos,1,3
+LEC,Leicester City,2,2
+LEN,Luis Enrique,1,6
+LF,Leo Franco,1,3
+LFA,Lucien Favre,1,6
+LFC,Liverpool FC,2,2
+LG,Luis García,1,3
+LGK,Lorenz-Günther Köstner,1,1
+LPR,Ludwig Preis,1,1
+LU,Leeds United,2,2
+LVG,Louis van Gaal,1,2
+LZ,Luis Zubeldia,1,3
+MA,Mikel Arteta,1,2
+MALO,Miguel Angel Lotina,1,3
+MAMA,Manolo Marquez,1,3
+MAP,Mauricio Pellegrino,1,6
+MAR,Marcelino,1,6
+MBA,Manuel Baum,1,1
+MBAB,Markus Babbel,1,1
+MBI,Marcelo Bielsa,1,6
+MBÜ,Mike Büskens,1,1
+MC,Manchester City,2,2
+MCA,Michael Carrick,1,2
+MCAR,Miguel Cardoso,1,6
+MD,Miroslav Djukic,1,3
+MF,Michael Frontzeck,1,1
+MG,Markus Gisdol,1,1
+MHE,Michael Henke,1,1
+MHU,Mark Hughes,1,2
+MHUD,Mark Hudson,1,2
+MI,Michel,1,3
+MJ,Martin Joel,1,2
+MJA,Mike Jackson,1,2
+MJI,Manolo Jimenez,1,3
+MK,Michael Köllner,1,1
+MKAU,Markus Kauczinski,1,1
+MKO,Marco Kostmann,1,1
+MKU,Marco Kurz,1,1
+ML,Michael Laudrup,1,6
+MMA,Malky Macky,1,2
+MMC,Mick McCarthy,1,2
+MOE,Michael Oenning,1,1
+MON,Martin O'Neill,1,2
+MP,Mauricio Pochettino,1,6
+MPE,Manuel Pellegrini,1,6
+MPH,Mike Phelan,1,2
+MR,Marco Rose,1,1
+MRA,Marcel Rapp,1,1
+MRO,Marcelo Romero,1,3
+MS,Maurizio Sarri,1,6
+MSC,Martin Schmidt,1,1
+MSCH,Manfred Schmid,1,1
+MSI,Marco Silva,1,2
+MSK,Michael Skibbe,1,1
+MSKU,Michael Skubala,1,2
+MSL,Mirko Slomka,1,1
+MSO,Marcus Sorg,1,1
+MST,Mike Stowell,1,2
+MU,Manchester United,2,2
+MVB,Mark van Bommel,1,1
+MW,Markus Weinzierl,1,1
+MWA,Maik Walpurgis,1,1
+MWI,Michael Wimmer,1,1
+MWIE,Michael Wiesinger,1,1
+NAD,Neil Adams,1,2
+NADK,Nigel Adkins,1,2
+NE,Nico Estevez,1,3
+NES,Nuno Espirito Santo,1,6
+NJ,Nathan Jones,1,2
+NK,Niko Kovac,1,6
+NM,Norbert Meier,1,1
+NOR,Norwich City,2,2
+NP,Nigel Pearson,1,2
+NU,Newcastle United,2,2
+NW,Nico Willig,1,1
+NWA,Neil Warnock,1,2
+OG,Oliver Glasner,1,1
+OGA,Oscar Garcia,1,6
+OGS,Ole Gunnar Solskjaer,1,2
+OR,Otto Rehhagel,1,1
+PA,Pacheta,1,6
+PAF,Pablo Franco,1,3
+PAY,Pako Ayestarán,1,3
+PB,Peter Bosz,1,6
+PBO,Pepe Bordalás,1,6
+PCL,Paul Clement,1,2
+PD,Pal Dardai,1,1
+PDC,Paolo Di Canio,1,2
+PGU,Pep Guardiola,1,6
+PH,Paul Heckingbottom,1,2
+PHE,Paco Herrera,1,3
+PJ,Paco Jémez,1,3
+PKN,Peter Knäbel,1,1
+PL,Paul Lambert,1,2
+PLO,Paco Lopez,1,3
+PM,Pellegrino Matarazzo,1,1
+PMA,Pablo Machin,1,6
+PME,Pepe Mel,1,6
+PMO,Philippe Montanier,1,6
+PP,Paulo Pezzolano,1,6
+PST,Peter Stöger,1,1
+PT,Paul Tait,1,2
+PV,Patrick Vieira,1,6
+PVA,Petar Vasiljevic,1,3
+QPR,Queens Park Rangers,2,2
+QS,Quique Setién,1,6
+QSF,Quique Sánchez Flores,1,6
+RB,Rafael Benítez,1,6
+RBA,Rubén Baraja,1,6
+RBE,Real Betis Sevilla,2,3
+RBER,Ramon Berndroth,1,1
+RBL,RB Leipzig,2,1
+RC,Rodolfo Cardoso,1,1
+RCC,Celta Vigo,2,3
+RCD,Espanyol Barcelona,2,3
+RCDM,RCD Mallorca,2,3
+RDM,Roberto di Matteo,1,6
+RDU,Robin Dutt,1,1
+RDZ,Roberto de Zerbi,1,2
+RGA,Rémi Garde,1,2
+RH,Roy Hodgson,1,2
+RHA,Ralph Hasenhüttl,1,6
+RK,Ronald Koeman,1,6
+RKE,Rob Kelly,1,2
+RM,Real Madrid,2,3
+RME,Rene Meulensteen,1,2
+RMO,Robert Moreno,1,6
+ROM,Roberto Mancini,1,4
+ROMA,Roberto Martinez,1,2
+ROS,Roger Schmidt,1,1
+RPR,Roger Prinzen,1,1
+RR,Ralf Rangnick,1,6
+RS,Rubén Sélles,1,2
+RSA,Racing Santander,2,3
+RSO,Real Sociedad,2,3
+RT,Ruben Torrecilla,1,3
+RU,Rubi,1,6
+RV,Rayo Vallecano,2,3
+RVAD,Real Valladolid,2,3
+RW,Rainer Widmayer,1,1
+RYM,Ryan Mason,1,2
+S04,Schalke 04,2,1
+SA,Sam Allardyce,1,2
+SAF,Sir Alex Ferguson,1,2
+SAGN,Steve Agnew,1,2
+SAR,Real Saragossa,2,3
+SB,Steffen Baumgart,1,1
+SBA,Sergi Barjuan,1,3
+SBE,Sebastián Beccacece,1,6
+SBR,Steve Bruce,1,2
+SCF,SC Freiburg,2,1
+SCL,Steve Clarke,1,2
+SD,Sean Dyche,1,2
+SDA,Steve Davis,1,2
+SDEI,SD Eibar,2,3
+SDH,SD Huesca,2,3
+SE,Sergio,1,3
+SEFC,Sevilla FC,2,3
+SEMA,Sergio Mantecon,1,3
+SG,Sporting Gijon,2,3
+SGE,Eintracht Frankfurt,2,1
+SGF,SpVgg Greuther Fürth,2,1
+SH,Sebastian Hoeneß,1,1
+SHY,Sami Hyypiä,1,1
+SJO,Slavisa Jokanović,1,2
+SKD,Sir Kenny Dalgish,1,2
+SLB,Slaven Bilic,1,2
+SLE,Sascha Lewandowski,1,1
+SMA,Scott Marshall,1,2
+SOFC,Southampton FC,2,2
+SOL,Stale Solbakken,1,1
+SPA,Scott Parker,1,2
+SR,Stefan Ruthenbeck,1,1
+SS,Sandro Schwarz,1,1
+SSO,Santiago Solari,1,3
+STGE,Steven Gerrard,1,2
+STMC,Steve McClaren,1,2
+STO,Stoke City FC,2,2
+SU,Sheffield United,2,2
+SVD,SV Darmstadt 98,2,1
+SVW,SV Werder Bremen,2,1
+SWA,Swansea City,2,2
+TAD,Tony Adams,1,3
+TC,Terry Connor,1,2
+TD,Thomas Doll,1,1
+TF,Thorsten Fink,1,1
+TFR,Torsten Frings,1,1
+TH,Tottenham Hotspur,2,2
+TK,Tayfun Korkut,1,1
+TL,Thomas Letsch,1,1
+TP,Tony Pulis,1,2
+TR,Thomas Reis,1,1
+TS,Thomas Schaaf,1,1
+TSCH,Thomas Schneider,1,1
+TSGH,TSG Hoffenheim,2,1
+TSH,Tim Sherwood,1,2
+TT,Thomas Tuchel,1,6
+TV,Tito Vilanova,1,3
+UDA,UD Almería,2,3
+UDLE,UD Levante,2,3
+UDLP,UD Las Palmas,2,3
+UM,Unai Emery,1,6
+UN,Uwe Neuhaus,1,1
+UR,Uwe Rössler,1,1
+VCF,Valencia CF,2,3
+VF,Víctor Fernández,1,3
+VFB,VfB Stuttgart,2,1
+VFLB,VfL Bochum,2,1
+VFLW,VfL Wolfsburg,2,1
+VICF,Villarreal CF,2,3
+VIS,Valerien Ismael,1,1
+VK,Vincent Kompany,1,2
+VM,Vicente Moreno,1,6
+VMO,Vincenzo Montella,1,6
+VO,Voro,1,3
+VS,Viktor Skrypnyk,1,1
+VSA,Víctor Sánchez,1,3
+WBA,West Bromwich Albion,2,2
+WHU,Westham United,2,2
+WM,Walter Mazzarri,1,6
+WW,Wolverhampton Wanderers,2,2
+XA,Xabi Alonso,1,1
+XM,Xisco Munoz,1,2
+ZIZI,Zinedine Zidane,1,3
